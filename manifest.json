@@ -16,7 +16,7 @@
 
   "permissions" : ["management"],
   "chrome_url_overrides": {
-    "newtab": "popup.html"
+    "newtab": "newtab.html"
   },
   "content_scripts": [
     {

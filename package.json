@@ -1,13 +1,14 @@
 {
-  "name": "rcr-example",
+  "name": "zentab-example",
   "version": "0.0.1",
   "private": true,
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Tyler Shaddix",
+  "author": "Voyage2-Turtles-25",
   "dependencies": {
+    "axios": "^0.16.2",
     "react": "^15.5.0",
     "react-chrome-redux": "0.0.7",
     "react-dom": "^15.5.0",
